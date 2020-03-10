@@ -1,0 +1,50 @@
+:root{
+  
+  --color-blue: blue;
+  --color-aqua: aqua;
+  --color-white: white;
+  --color-back: rgb(87, 157, 218);
+  
+}
+
+.backgroud-blue{
+  background-color:var(--color-blue);
+}
+
+.background-light-blue{
+  background-color:var(--color-aqua);
+}
+
+.text-white{
+  color: var(--color-white);
+}
+
+.text-blue{
+color:var(--color-blue);  
+}
+
+.text-light-blue{
+  color: var(--color-aqua);
+}
+
+.text-center{
+  text-align: center;
+}
+
+.bold{
+  font-weight: bold;
+}
+
+.fix-width{
+  width: 40%;
+  padding-left: 35%;
+}
+
+.image{
+  color: var(--color-white);
+  background-color: var(--color-back);
+  text-align: center;
+  width: 10%;
+  height: 10%;
+  padding: 40px;
+}
