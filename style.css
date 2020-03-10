@@ -7,6 +7,13 @@
   
 }
 
+.border-black{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  padding: 10px;
+}
+
 .backgroud-blue{
   background-color:var(--color-blue);
 }
